@@ -42,11 +42,4 @@ npm run dev (Porta: 8080)
 
 dotnet run  (Porta: 5001)
 
-# Problema
-
-Por isso eu não gerei o APK.
-https://cadastroprodutos-53221.web.app/#/
-
-Não conseguir fazer o deploy, da api. Pois não tinha cartão para colocar no Azure.
-
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
