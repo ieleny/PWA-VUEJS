@@ -1,4 +1,4 @@
-# yes
+# PWA=VUEJS
 
 > A Vue.js project
 
